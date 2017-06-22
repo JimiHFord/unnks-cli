@@ -1,0 +1,27 @@
+{
+  "name": "unnks-cli",
+  "version": "0.0.1",
+  "description": "Command line interface for unnks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JimiHFord/unnks-cli.git"
+  },
+  "keywords": [
+    "unnks",
+    "nkx",
+    "archive",
+    "unpacker",
+    "command",
+    "line"
+  ],
+  "author": "Jimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JimiHFord/unnks-cli/issues"
+  },
+  "homepage": "https://github.com/JimiHFord/unnks-cli#readme"
+}
